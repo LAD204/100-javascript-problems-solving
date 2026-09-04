@@ -58,6 +58,6 @@
     }
 
     const string1 = "fhiahe"
-    const string2 = "iuhfaieh"
+    const string2 = "gregew"
     const problem_solve = new solvingProblem();
     console.log(problem_solve.isAnagram(string1, string2))
