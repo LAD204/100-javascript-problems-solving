@@ -1,4 +1,4 @@
-    // **Bài 14.** Viết hàm kiểm tra hai chuỗi có phải là anagram của nhau không (chứa cùng các ký tự, khác thứ tự).
+// **Bài 14.** Viết hàm kiểm tra hai chuỗi có phải là anagram của nhau không (chứa cùng các ký tự, khác thứ tự).
     class solvingProblem{
         isAnagram(string1, string2){
             if(string1.length === string2.length){
@@ -57,7 +57,7 @@
         }
     }
 
-    const string1 = "fhiahe"
-    const string2 = "gregew"
+    const string1 = "dung"
+    const string2 = "gudn"
     const problem_solve = new solvingProblem();
     console.log(problem_solve.isAnagram(string1, string2))
