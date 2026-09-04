@@ -57,7 +57,7 @@
         }
     }
 
-    const string1 = "dung"
-    const string2 = "gudn"
+    const string1 = "fhiahe"
+    const string2 = "iuhfaieh"
     const problem_solve = new solvingProblem();
     console.log(problem_solve.isAnagram(string1, string2))
